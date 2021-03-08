@@ -4,11 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="" />
+    <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Persistence/SFP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.46 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.46 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.51 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.51 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.56 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.56 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.44.00 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.44.00 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.50.27 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.50.27 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Story,Schedule, Reflection Statments/schedule.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Story,Schedule, Reflection Statments/schedule.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Story,Schedule, Reflection Statments/userStoryJE.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Story,Schedule, Reflection Statments/userStoryJE.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1nfMoQkT7JWMoN7lvGTMFamILec" />
   <component name="ProjectViewState">
@@ -16,10 +53,32 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,10 +89,27 @@
       <option name="presentableId" value="Default" />
       <updated>1611776870037</updated>
       <workItem from="1611776871232" duration="385000" />
+      <workItem from="1612919442976" duration="320000" />
+      <workItem from="1614640430546" duration="2685000" />
+      <workItem from="1615159014456" duration="5098000" />
+      <workItem from="1615167691262" duration="570000" />
+      <workItem from="1615230075083" duration="2873000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
