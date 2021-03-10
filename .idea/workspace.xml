@@ -5,24 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Persistence/SFP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Persistence/RankDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cleandb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/matc/test/util/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cleandb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.46 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.46 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.51 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.51 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.56 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.43.56 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.44.00 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.44.00 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.50.27 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Basic Layout images/Screen Shot 2021-02-09 at 6.50.27 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Story,Schedule, Reflection Statments/schedule.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Story,Schedule, Reflection Statments/schedule.rtf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Checkpoint One/Story,Schedule, Reflection Statments/userStoryJE.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/Checkpoint One/Story,Schedule, Reflection Statments/userStoryJE.rtf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/timeLog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +61,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.matc.Persistence" />
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.RankDaoTest.getByIdTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -79,6 +89,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RankDaoTest.getByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="METHOD_NAME" value="getByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankDaoTest.saveOrUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="METHOD_NAME" value="saveOrUpdateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RankDaoTest.getByIdTest" />
+        <item itemvalue="JUnit.RankDaoTest.saveOrUpdateTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +141,7 @@
       <workItem from="1614640430546" duration="2685000" />
       <workItem from="1615159014456" duration="5098000" />
       <workItem from="1615167691262" duration="570000" />
-      <workItem from="1615230075083" duration="2873000" />
+      <workItem from="1615230075083" duration="10084000" />
     </task>
     <servers />
   </component>
