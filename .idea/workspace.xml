@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Persistence/RankDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cleandb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/matc/test/util/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cleandb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeagueOfLegendsPerfomanceTracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/timeLog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cleandb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cleandb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleandb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +66,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RankDaoTest.getByIdTest">
+  <component name="RunManager" selected="JUnit.RankDaoTest.insertTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -85,6 +74,38 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankDaoTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankDaoTest.getAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="METHOD_NAME" value="getAllTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +121,22 @@
       <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
       <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="getByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankDaoTest.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="METHOD_NAME" value="insertTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,8 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RankDaoTest.getByIdTest" />
+        <item itemvalue="JUnit.RankDaoTest.insertTest" />
+        <item itemvalue="JUnit.RankDaoTest.getAllTest" />
+        <item itemvalue="JUnit.RankDaoTest.deleteTest" />
         <item itemvalue="JUnit.RankDaoTest.saveOrUpdateTest" />
+        <item itemvalue="JUnit.RankDaoTest.getByIdTest" />
       </list>
     </recent_temporary>
   </component>
@@ -159,5 +199,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leagueOfLegendsPerformanceTracker$RankDaoTest_insertTest.ic" NAME="RankDaoTest.insertTest Coverage Results" MODIFIED="1615340032186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.matc.Persistence.*</FILTER>
+    </SUITE>
   </component>
 </project>

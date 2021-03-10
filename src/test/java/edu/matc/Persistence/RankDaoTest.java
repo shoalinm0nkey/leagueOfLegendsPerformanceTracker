@@ -47,11 +47,11 @@ public class RankDaoTest {
      */
     @Test
     void insertTest() {
-        Rank newRank = new Rank();
+        Rank newRank = new Rank("Random");
         int id = dao.insert(newRank);
         assertNotEquals(0, id);
         Rank insertedBook = dao.getById(id);
-        assertEquals("Inserted Book", insertedBook.getRankName());
+        assertEquals("Random", insertedBook.getRankName());
     }
 
     /**

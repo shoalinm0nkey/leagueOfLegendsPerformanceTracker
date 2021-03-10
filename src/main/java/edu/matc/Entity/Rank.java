@@ -18,11 +18,10 @@ public class Rank {
     @GenericGenerator(name = "native", strategy = "native")
     private int id;
 
-    @Column(columnDefinition = "rank_name")
+    @Column(name = "rank_name")
     private String rankName;
 
-    public Rank(int id, String rankName) {
-        this.id = id;
+    public Rank(String rankName) {
         this.rankName = rankName;
     }
 
