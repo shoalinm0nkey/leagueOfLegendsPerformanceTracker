@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/matc/Entity/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cleandb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/matc/Persistence/RankDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cleandb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleandb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +59,15 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.RankDaoTest.insertTest">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,12 +76,12 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="PATTERN" value="edu.matc.persistence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="deleteTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -98,12 +92,12 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="PATTERN" value="edu.matc.persistence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="getAllTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -114,12 +108,12 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="PATTERN" value="edu.matc.persistence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="getByIdTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -130,12 +124,12 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="PATTERN" value="edu.matc.persistence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="insertTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -146,12 +140,12 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.Persistence.*" />
+          <option name="PATTERN" value="edu.matc.persistence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.Persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.Persistence.RankDaoTest" />
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
       <option name="METHOD_NAME" value="saveOrUpdateTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">

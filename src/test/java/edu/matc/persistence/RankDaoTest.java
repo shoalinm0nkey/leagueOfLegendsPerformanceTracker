@@ -1,7 +1,7 @@
-package edu.matc.Persistence;
+package edu.matc.persistence;
 
 
-import edu.matc.Entity.Rank;
+import edu.matc.entity.Rank;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

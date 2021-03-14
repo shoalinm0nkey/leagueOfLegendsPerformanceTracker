@@ -1,9 +1,8 @@
-package edu.matc.Persistence;
+package edu.matc.persistence;
 
-import edu.matc.Entity.Rank;
+import edu.matc.entity.Rank;
 
 import java.util.List;
-import java.util.logging.*;
 
 import org.apache.logging.log4j.LogManager;
 import org.hibernate.Session;
@@ -13,7 +12,6 @@ import org.hibernate.Transaction;
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;
 import javax.persistence.criteria.Root;
-import java.util.List;
 
 
 public class RankDao {
