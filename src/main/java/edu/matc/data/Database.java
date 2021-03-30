@@ -1,4 +1,4 @@
-package edu.matc.test.util;
+package edu.matc.data;
 
 
 import org.apache.logging.log4j.LogManager;
@@ -71,7 +71,6 @@ public class Database {
     }
 
     public void runSQL(String sqlFile) {
-        System.out.println("running " + sqlFile);
         Statement statement = null;
 
         ClassLoader classLoader = Thread.currentThread().getContextClassLoader();

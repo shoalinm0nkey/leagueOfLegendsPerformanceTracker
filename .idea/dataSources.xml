@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="LeaguePerformanceTracker@localhost" uuid="dbec1a15-64a5-47d2-8ce8-78f1441dde28">
+    <data-source source="LOCAL" name="LeaguePerformanceTrackerTest@localhost" uuid="5281fbfc-8433-463b-9808-ecc9ded041a0">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/LeaguePerformanceTracker</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/LeaguePerformanceTrackerTest</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="LeaguePerformanceTrackerTest@localhost" uuid="edbfc762-65b7-4296-9b0b-0beadf6b53a9">
+    <data-source source="LOCAL" name="LeaguePerformanceTracker@localhost" uuid="eb6cf4a5-f716-4be4-8332-44ae11baa019">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/LeaguePerformanceTracker</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="serverTimezone" value="UTC" />
+      </driver-properties>
     </data-source>
   </component>
 </project>

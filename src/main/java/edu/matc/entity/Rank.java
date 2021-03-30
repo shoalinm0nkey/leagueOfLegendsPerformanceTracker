@@ -61,4 +61,8 @@ public class Rank {
         this.rankName = rankName;
     }
 
+    /*
+    public String toString() {
+        return rankName;
+    }*/
 }

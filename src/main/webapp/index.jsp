@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<p><a href="admin.jsp">Admin access</a></p>
+<p><a href="general.jsp">General access</a></p>
 </body>
 </html>

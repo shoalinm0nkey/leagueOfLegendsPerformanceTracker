@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LeagueOfLegendsPerfomanceTracker:war" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="" />
+    <list default="true" id="3d7f4580-b29d-4e0c-b0c6-d4c551c715ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/controller/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/data/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/matc/persistence/RankData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties.prod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/failedLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/general.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ranks.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dbec1a15-64a5-47d2-8ce8-78f1441dde28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dbec1a15-64a5-47d2-8ce8-78f1441dde28/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/edbfc762-65b7-4296-9b0b-0beadf6b53a9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/edbfc762-65b7-4296-9b0b-0beadf6b53a9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/matc/entity/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/matc/entity/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cleandb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/matc/persistence/RankDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/matc/persistence/RankDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/matc/test/util/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/matc/test/util/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cleandb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleandb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/matc/Entity/Rank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/matc/Persistence/RankDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/matc/Persistence/RankDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/matc/Persistence/SFP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/matc/Persistence/SFP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/matc/Persistence/RankDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/matc/test/util/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/edu/matc/test/util/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/timeLog.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +55,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
+        <option value="jsf" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -28,6 +72,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1nfMoQkT7JWMoN7lvGTMFamILec" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,11 +91,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -57,12 +110,27 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RankDaoTest.insertTest">
+  <component name="RunManager" selected="TomEE Server.Tomcat">
+    <configuration name="RankDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeagueOfLegendsPerfomanceTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.matc.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
+      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RankDaoTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.persistence.*" />
+          <option name="PATTERN" value="edu.matc.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +146,7 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.persistence.*" />
+          <option name="PATTERN" value="edu.matc.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,27 +158,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RankDaoTest.getByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeagueOfLegendsPerfomanceTracker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.matc.persistence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.matc.persistence" />
-      <option name="MAIN_CLASS_NAME" value="edu.matc.persistence.RankDaoTest" />
-      <option name="METHOD_NAME" value="getByIdTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RankDaoTest.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.persistence.*" />
+          <option name="PATTERN" value="edu.matc.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,7 +178,7 @@
       <module name="LeagueOfLegendsPerfomanceTracker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.matc.persistence.*" />
+          <option name="PATTERN" value="edu.matc.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,13 +190,109 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tomcat" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="LeagueOfLegendsPerfomanceTracker:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/LeagueOfLegendsPerfomanceTracker_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f1b5a43e-92fe-45fc-9011-e7c3974e22bc" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65132" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="install" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LeagueOfLegendsPerfomanceTracker:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RankDaoTest.deleteTest" />
+      <item itemvalue="JUnit.RankDaoTest.getAllTest" />
+      <item itemvalue="JUnit.RankDaoTest.insertTest" />
+      <item itemvalue="JUnit.RankDaoTest.saveOrUpdateTest" />
+      <item itemvalue="JUnit.RankDaoTest" />
+      <item itemvalue="TomEE Server.Tomcat" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RankDaoTest.insertTest" />
+        <item itemvalue="JUnit.RankDaoTest" />
         <item itemvalue="JUnit.RankDaoTest.getAllTest" />
         <item itemvalue="JUnit.RankDaoTest.deleteTest" />
+        <item itemvalue="JUnit.RankDaoTest.insertTest" />
         <item itemvalue="JUnit.RankDaoTest.saveOrUpdateTest" />
-        <item itemvalue="JUnit.RankDaoTest.getByIdTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +311,9 @@
       <workItem from="1615167691262" duration="570000" />
       <workItem from="1615230075083" duration="10084000" />
       <workItem from="1615761660093" duration="793000" />
+      <workItem from="1616362721540" duration="12382000" />
+      <workItem from="1616675652220" duration="12698000" />
+      <workItem from="1617035995950" duration="8081000" />
     </task>
     <servers />
   </component>

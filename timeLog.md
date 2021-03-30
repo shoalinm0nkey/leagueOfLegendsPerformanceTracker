@@ -10,6 +10,7 @@ completed the exercise(2hr)
 
 Week4
 completed exercise(3hr)
+Checkpoint 1 done(4hr)
 
 Week5
 completed exercise(3hr)
@@ -19,3 +20,9 @@ completed exercise(1hr)
 
 Week7
 completed exercies(1.5hr)
+checkpoint 2 done(4hrs)
+
+week8
+lab complete(1 hr)
+
+week9
